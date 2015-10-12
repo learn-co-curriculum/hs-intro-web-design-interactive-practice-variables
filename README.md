@@ -87,13 +87,13 @@ var age = 34;
 ?: What is the outcome of running the code below?
 ```js
 var artist_first = "NiCKi"
-var artist_last = "MiNaj"
+var artist_last = "NiCKi"
 
-"When I listen to " + artist_first.toUpperCase() + " " + artist_last.toLowerCase() + " I feel like my brain is melting."
+"When I listen to " + artist_first + " " + artist_last + " I feel like my brain is melting."
 ```
 ( ) When I listen to NICKI MINAJ I feel like my brain is melting.
 ( ) When I listen to Nicki Minaj I feel like my brain is melting.
-(X) When I listen to NICKI minaj I feel like my brain is melting. 
+(X) When I listen to NiCKi NiCKi I feel like my brain is melting. 
 
 ?: What is the outcome of running the code below?
 ```js
@@ -101,10 +101,10 @@ var name = "Allyson";
 var age = 19;
 var city = "Boston";
 
-"Hi. I'm " + name.toUpperCase() + ". I'm from " + city.toLowerCase() + " and in ten years I'm going to be " + (age+10);
+"Hi. I'm " + name + ". I'm from " + city. + " and in ten years I'm going to be " + (age+10);
 ```
-(X) "Hi. I'm ALLYSON. I'm from boston and in ten years I'm going to be 29"
-( ) "Hi. I'm Allyson. I'm from Boston and in ten years I'm going to be twenty-nine"
+( ) "Hi. I'm ALLYSON. I'm from boston and in ten years I'm going to be 29"
+(X) "Hi. I'm Allyson. I'm from Boston and in ten years I'm going to be twenty-nine"
 ( ) "Hi. I'm ALlYsOn. I'm from bOsToN and in ten years I'm going to be 29"
 
 
