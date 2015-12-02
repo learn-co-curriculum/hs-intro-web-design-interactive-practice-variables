@@ -116,3 +116,4 @@ Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Set a variable equa
 ( ) 922,466,495
 
 ???
+<a href='https://learn.co/lessons/hs-intro-web-design-interactive-practice-variables' data-visibility='hidden'>View this lesson on Learn.co</a>
